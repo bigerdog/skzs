@@ -4,6 +4,8 @@
 # 支付流程
 创建收款码并上传至网站> 用户使用微信扫码> 支付成功> 向网站同步数据
 
+![软件界面](https://img1.imgtp.com/2022/11/09/GZwVZtek.jpg)
+
 ### 解压密码 123
 
 [下载 7z格式](https://bigerdog.github.io/xx/%E6%94%B6%E6%AC%BE%E5%8A%A9%E6%89%8B.7z)
